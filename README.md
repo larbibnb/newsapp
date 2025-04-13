@@ -33,12 +33,12 @@ A modern news application built with Flutter that allows users to browse the lat
 
 1. Clone the repository:
    ```
-   git clone https://github.com/yourusername/newscloud.git
+   git clone https://github.com/larbibnb/newsapp.git
    ```
 
 2. Navigate to the project directory:
    ```
-   cd newscloud
+   cd newsapp
    ```
 
 3. Install dependencies:
